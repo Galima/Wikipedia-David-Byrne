@@ -1,13 +1,9 @@
 <style>
 body {
-  color: red;
-}
-a {
   color: black;
 }
-* {
-  margin: 0;
-  padding: 0;
+a {
+  color: blue;
 }
 * {
   margin: 0;
@@ -19,7 +15,7 @@ body {
   line-height: 1.5;
 }
 header {
-  background: url(/images/talking-heads.jpg);
+  background: url(images/tron.jpg);
 }
 header h1 {
   height: 400px;
@@ -36,3 +32,4 @@ aside {
   margin: 2em auto;
 }
 </style>
+
